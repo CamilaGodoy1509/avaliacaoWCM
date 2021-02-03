@@ -1,0 +1,17 @@
+application.type=layout
+application.code=teste
+application.title=teste
+application.description=testes
+application.category=SYSTEM
+application.renderer=freemarker
+developer.code=nb-clima
+developer.name=camila.lima
+developer.url=http://www.fluig.com
+layout.defaultSlot=SlotA
+layout.file=layout.ftl
+locale.file.base.name=teste
+slot.SlotGlobalAlert=alertpopover
+slot.SlotInstantSearch=suggestsearch
+slot.SlotLogin=sociallogin
+slot.SlotMenu=menu
+slot.SlotUsePolicy=usepolicy
